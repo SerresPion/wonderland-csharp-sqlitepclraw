@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MSTest.Tests", "MSTest.Test
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NUnit.Tests", "NUnit.Tests\NUnit.Tests.csproj", "{38A8D4C6-A372-4FF7-BB03-18AA07086AFC}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XUnit.Tests", "XUnit.Tests\XUnit.Tests.csproj", "{AE0B9729-F3D7-4742-8021-596BC029DD76}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XUnit.Tests", "XUnit.Tests\XUnit.Tests.csproj", "{C9173FD8-3B4F-40A3-B9B5-2299CD52BFEA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,10 +29,10 @@ Global
 		{38A8D4C6-A372-4FF7-BB03-18AA07086AFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{38A8D4C6-A372-4FF7-BB03-18AA07086AFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{38A8D4C6-A372-4FF7-BB03-18AA07086AFC}.Release|Any CPU.Build.0 = Release|Any CPU
-		{AE0B9729-F3D7-4742-8021-596BC029DD76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AE0B9729-F3D7-4742-8021-596BC029DD76}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AE0B9729-F3D7-4742-8021-596BC029DD76}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AE0B9729-F3D7-4742-8021-596BC029DD76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9173FD8-3B4F-40A3-B9B5-2299CD52BFEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9173FD8-3B4F-40A3-B9B5-2299CD52BFEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9173FD8-3B4F-40A3-B9B5-2299CD52BFEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9173FD8-3B4F-40A3-B9B5-2299CD52BFEA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
