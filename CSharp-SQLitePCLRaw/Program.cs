@@ -1,7 +1,6 @@
 ﻿using Microsoft.Data.Sqlite;
 using System;
 using System.Data;
-using System.Data.SQLite;
 
 namespace CSharp_SQLitePCLRaw
 {
